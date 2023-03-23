@@ -43,6 +43,8 @@ In Decision Trees, for predicting a class label for a record we start from the r
 <li>Pruning: When we remove sub-nodes of a decision node, this process is called pruning. You can say the opposite process of splitting</li>
 <li>Branch / Sub-Tree: A subsection of the entire tree is called branch or sub-tree</li>
 <li>Parent and Child Node: A node, which is divided into sub-nodes is called a parent node of sub-nodes whereas sub-nodes are the child of a parent node.</li>
+
+
 ![image](https://user-images.githubusercontent.com/65645365/227258267-4eff97ae-b6b5-451f-b417-e02a83d9d1e3.png)
 
 <h>Building the Random Forest algorithm</h>
