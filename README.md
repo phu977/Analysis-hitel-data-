@@ -45,7 +45,7 @@ In Decision Trees, for predicting a class label for a record we start from the r
 <li>Parent and Child Node: A node, which is divided into sub-nodes is called a parent node of sub-nodes whereas sub-nodes are the child of a parent node.</li>
 
 
-![image](https://user-images.githubusercontent.com/65645365/227258267-4eff97ae-b6b5-451f-b417-e02a83d9d1e3.png)
+<img src='https://user-images.githubusercontent.com/65645365/227258267-4eff97ae-b6b5-451f-b417-e02a83d9d1e3.png' width='600'>
 
 <h>Building the Random Forest algorithm</h>
 <p>Suppose my dataset has n data (sample) and each data has d attributes (feature)</p>
