@@ -52,8 +52,7 @@ In Decision Trees, for predicting a class label for a record we start from the r
 <p>To build each decision tree I would do the following:</p>
 <li>Randomly take n data from the dataset with Bootstrapping technique, also known as random sampling with replacement. That is, when I sampled 1 data, I did not remove that data but kept it in the original data set, and then continued to sample until the sample had n data. When using this technique, our new data set n may have duplicate data.</li>
 
-![image](https://user-images.githubusercontent.com/65645365/227260549-ad5f92ea-f594-4a30-8871-9d3967dc6727.png)
-
+<img src='https://user-images.githubusercontent.com/65645365/227260549-ad5f92ea-f594-4a30-8871-9d3967dc6727.png' width='600'>
 
 <li>After sampling n data from step 1, I randomly select k attributes (k < n). Now I have a new dataset consisting of n data and each data has k attributes.</li>
 <li>Use Decision Tree algorithm to build decision tree with data set in step 2</li>
