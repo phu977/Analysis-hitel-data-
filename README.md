@@ -25,3 +25,4 @@ In this study, the author would like to present how to handle datasets with many
 <p> pandas.get_dummies() is used for data manipulation. It converts categorical data into dummy or indicator variables.</p>
 <p> Label Encoding refers to converting the labels into a numeric form so as to convert them into the machine-readable form. Machine learning algorithms can then decide in a better way how those labels must be operated. It is an important pre-processing step for the structured dataset in supervised learning</p>
 <p>In conlusion,Although the above small analysis is quite simple according to the author, from this article we have learned more about some ways to process data with categorical features so that we can improve the level of data processing. data and an accurate view of all future data to come</p>
+<h> UPDATE</h>
